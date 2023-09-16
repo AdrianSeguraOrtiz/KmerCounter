@@ -2,6 +2,11 @@
 
 This Java project offers a solution to analyze the frequency of k-mers in both fasta and multifasta files. K-mers are subsequences of length k from a DNA sequence. Understanding their frequencies can provide valuable insights into genomic studies.
 
+<div align="center">
+    <img src="./k-mers.png" alt="" width="50%">
+</div>
+
+
 ## Project Components
 
 ### File 1: ADN.java
